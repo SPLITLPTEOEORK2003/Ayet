@@ -1,1 +1,1 @@
-# Ayet
+worker: node bot.js
